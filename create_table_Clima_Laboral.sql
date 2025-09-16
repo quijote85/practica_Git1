@@ -1,0 +1,1 @@
+select * from vw_clima_laboral_femsa;
